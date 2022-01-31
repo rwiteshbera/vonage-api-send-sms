@@ -1,4 +1,4 @@
-Install Vonage API module
+Install dependencies
 
 ```bash
 npm install
@@ -13,4 +13,8 @@ const vonage = new Vonage({
 })
 ```
 
+Send message by running the server.
 
+```bash
+node index.js
+```
